@@ -1,0 +1,22 @@
+{
+  "name": "gulp-repo",
+  "version": "1.0.0",
+  "description": "gulp.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whjin/gulp-repo.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "whjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whjin/gulp-repo/issues"
+  },
+  "homepage": "https://github.com/whjin/gulp-repo#readme"
+}
